@@ -46,7 +46,13 @@
                Literature' at Newcastle University. He is also currently Chair of the TEI
                Consortium's Board of Directors.</note>
          </person>
-
+		<person xml:id="testperson001">
+			<persName>Yuta Hayashi</persName>
+			<affiliation ref="#org-Nu02">Institute of Developing Economies</affiliation>
+			<occupation>Librarian</occupation>
+			<nationality>Japan</nationality>
+			<note>test entity for workshop in dh2026</note>
+		</person>
       </listPerson>
 
       <!-- Place entities are stored in a <listPlace> element -->
